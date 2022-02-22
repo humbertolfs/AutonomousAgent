@@ -9,4 +9,3 @@ application.windows64
 application.macosx
 out
 *.class
-*.properties
